@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshatha Nayak</h1>
-<h3 align="center">Passionate about Full Stack Web Development | BCA student @MGM College Udupi</h3>
+<h3 align="center">Passionate about Full Stack Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatha-27&label=Profile%20views&color=0e75b6&style=flat" alt="akshatha-27" /> </p>
 
